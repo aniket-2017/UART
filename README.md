@@ -7,16 +7,16 @@ Clone or download this repository on your computer. In the docs folder there is 
 
 ## Prerequisites
 ### Boards used
-MSP430G253 lunchbox kit 
-Arduino UNO
+- MSP430G253 lunchbox kit 
+- Arduino UNO
 
 ### Compatibility
 I have written this code using MSP430G253 lunchbox kit which was is manufactured by sincgrid. This code will also work well with the MSP430 launchpad kit offered by Texas Instruments.
 This code does not use interrupts and LPM modes and it is not intended to be used in industry.
  
 ## Built With
-IDE: Code Composer Studio  Version: 9.3.0.00012
-Compiler: TI v4.4.5
-Arduino IDE  Version: 1.8.13
+- IDE: Code Composer Studio  Version: 9.3.0.00012
+- Compiler: TI v4.4.5
+- Arduino IDE  Version: 1.8.13
 
 ## Useful Links

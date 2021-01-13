@@ -1,6 +1,5 @@
 # UART using MSP430 and Arduino UNO
-
-### This is the examle of configuration of UART in C using MSP430g2553 and Arduino UNO. Simple routines for better understanding of the peripheral.
+This is the examle of configuration of UART in C using MSP430g2553 and Arduino UNO. Simple routines for better understanding of the peripheral.
 
 ## Getting Started
 Clone or download this repository on your computer. In the docs folder there is the x5xx manual. In the src folder is the header and the implementation of the functions.
@@ -20,3 +19,6 @@ This code does not use interrupts and LPM modes and it is not intended to be use
 - Arduino IDE  Version: 1.8.13
 
 ## Useful Links
+- Buy MSP4340: https://store.sincgrid.com/index.php?route=product/product&product_id=68
+- Buy Arduino UNO: https://store.arduino.cc/usa/arduino-uno-rev3
+- More projects on: https://github.com/ticepd/EmbSysDesign_NPTEL_Course.git

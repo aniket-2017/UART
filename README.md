@@ -30,4 +30,4 @@ This code does not use interrupts and LPM modes, and it is not intended to be us
 - More projects on: https://github.com/ticepd/EmbSysDesign_NPTEL_Course.git
 
 ## Video
-- 
+- https://www.linkedin.com/posts/aniketarya17_texasinstruments-arduino-embeddedc-activity-6755417729445990400-KKZR
